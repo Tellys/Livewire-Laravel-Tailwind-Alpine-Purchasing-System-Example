@@ -1,0 +1,53 @@
+{
+    "name": "livewire-laravel-tailwind-alpine-purchasing-system-example",
+    "version": "0.1.0",
+    "license": "MIT",
+    "description": "An Example Of a Spa (single page application) Shopping System Using Laravel Livewire Tailwind Css And Alpine Js, Integrated With a Login System And Administrative Reports",
+    "author": {
+        "name": "Tellys Castro",
+        "email": "tellyscastro@gmail.com",
+        "url": "https://www.agenciasolution.com/"
+    },
+    "keywords": [
+        "livewire",
+        "laravel",
+        "authentication",
+        "login",
+        "tailwind",
+        "tailwindcss",
+        "alpine",
+        "alpinejs",
+        "sass loader",
+        "sass",
+        "css"
+    ],
+    "private": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tellys/Livewire-Laravel-Tailwind-Alpine-Purchasing-System-Example"
+    },
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "@tailwindcss/forms": "^0.3",
+        "@tailwindcss/typography": "^0.4",
+        "alpinejs": "^3.2",
+        "laravel-mix": "^6.0.6",
+        "laravel-mix-tailwind": "^0.1",
+        "postcss": "^8.1.14",
+        "resolve-url-loader": "^3.1",
+        "sass": "^1.32",
+        "sass-loader": "^8.0",
+        "tailwindcss": "^2.2"
+    },
+    "dependencies": {
+        "acorn": "^8.6.0"
+    }
+}
