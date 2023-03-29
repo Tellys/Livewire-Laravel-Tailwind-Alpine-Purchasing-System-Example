@@ -43,6 +43,11 @@
     
 Se deu tudo certo até aqui, agora é com você, vai encontrar mais detalhes no projeto, faz rodar e divirta-se 😁.
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Tellys/Livewire-Laravel-Tailwind-Alpine-Purchasing-System-Example/main/print_screen_system/animation.gif" alt="animaton system">
+    </a>
+</p>
+
 
 Opções para instalação
 ```bash
